@@ -1,6 +1,6 @@
 # social_distance_detector
 
-This project used YOLO object detection algorithm to detect people in a video and use eucledian distance geometry to calculate the distance between them and compares this distance against a set allowable distance between people. Distance between people that violates this minimum distance are classified as violating the social distance rule.
+This project uses YOLO object detection algorithm to detect people in a video and use eucledian distance geometry to calculate the distance between them and compares this distance against a set allowable distance between people. Distance between people that violates this minimum distance are classified as violating the social distance rule.
 
 
 
